@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+Datos/.DS_Store
+Datos/1_2_POBLACION.xls
+Datos/4_2_EDUCACION.xls
+Datos/7_3_VIVIENDA.xls
+Datos/7_5_VIVIENDA.xls
+Datos/DEFUNCIONES_FUENTE_DEIS_1990_2022_CIFRAS_OFICIALES.zip
+Datos/DEFUNCIONES_FUENTE_DEIS_1990_2022_CIFRAS_OFICIALES/Diccionario de Datos y Manual de Uso BBDD-COVID19 liberada.xlsx
+Datos/DEIS/deis_defunciones.csv
+Datos/Hacinamiento_Comuna.xlsx
