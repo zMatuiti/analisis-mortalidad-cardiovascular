@@ -214,3 +214,12 @@ Datos/DEFUNCIONES_FUENTE_DEIS_1990_2022_CIFRAS_OFICIALES.zip
 Datos/DEFUNCIONES_FUENTE_DEIS_1990_2022_CIFRAS_OFICIALES/Diccionario de Datos y Manual de Uso BBDD-COVID19 liberada.xlsx
 Datos/DEIS/deis_defunciones.csv
 Datos/Hacinamiento_Comuna.xlsx
+
+# macOS and OS specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
